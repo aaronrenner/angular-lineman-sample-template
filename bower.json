@@ -1,0 +1,20 @@
+{
+  "name": "test-app",
+  "version": "0.0.0",
+  "authors": [
+    "Aaron Renner <aaron@animascodelabs.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "/vendor/bower",
+    "test",
+    "tests"
+  ]
+}
