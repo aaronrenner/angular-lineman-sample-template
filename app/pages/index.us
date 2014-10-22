@@ -8,6 +8,6 @@
   <body>
     <script type="text/javascript" src="<%= js %>"></script>
 
-    <div data-angular-test>Angular is {{ "working" }}</div>
+    <div data-angular-failed-msg ng-hide="true">Angular is not working</div>
   </body>
 </html>
