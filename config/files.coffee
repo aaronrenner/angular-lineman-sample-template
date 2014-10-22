@@ -10,6 +10,7 @@ module.exports = (lineman) ->
   js:
     vendor: [
       "vendor/bower/angular/angular.js",
+      "vendor/bower/angular-ui-router/release/angular-ui-router.js",
       "vendor/js/**/*.js"
     ]
 
