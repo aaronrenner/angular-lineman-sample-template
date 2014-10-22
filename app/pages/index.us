@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html ng-app>
   <head>
     <title><%= pkg.name %></title>
 
@@ -7,5 +7,7 @@
   </head>
   <body>
     <script type="text/javascript" src="<%= js %>"></script>
+
+    <div data-angular-test>Angular is {{ "working" }}</div>
   </body>
 </html>

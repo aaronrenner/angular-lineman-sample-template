@@ -5,7 +5,9 @@
   "private": true,
   "author": "John Doe",
   "devDependencies": {
+    "coffee-script": "^1.8.0",
     "grunt": "^0.4.5",
+    "grunt-protractor-runner": "^1.1.4",
     "lineman": "^0.34.2",
     "lineman-bower": "0.0.5"
   },
