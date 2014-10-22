@@ -4,6 +4,7 @@
   "launch_in_ci" : ["PhantomJS"],
   "src_files" : [
     "generated/js/app.js",
+    "vendor/bower/angular-mocks/angular-mocks.js",
     "generated/js/spec.js"
   ]
 }
