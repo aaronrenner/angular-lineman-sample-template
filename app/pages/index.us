@@ -8,6 +8,7 @@
   <body>
     <script type="text/javascript" src="<%= js %>"></script>
 
+    <a ui-sref="home">Home</a>
     <ui-view></ui-view>
 
     <div data-angular-failed-msg ng-hide="true">Angular is not working</div>
